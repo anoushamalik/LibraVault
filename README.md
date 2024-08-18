@@ -71,6 +71,3 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Replace `[Your Name]` with your actual name and customize the sections as needed.
