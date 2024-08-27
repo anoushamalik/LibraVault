@@ -1,3 +1,4 @@
+# Main Class
 class LibraryManagementSystem:
     def __init__(self):
         self.faculty_users = {'Malik': '123'}  # Sample faculty credentials
